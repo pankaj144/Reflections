@@ -1,0 +1,30 @@
+meaning means to make sense of an experience; we
+make an interpretation of it. When we subsequently use this
+interpretation to guide decision making or action, then making
+meaning becomes learning. We learn differently when we are
+learning to perform than when we are learning to understand
+what is being communicated to us. Reflection enables us to
+cor-rect distortions in our beliefs and errors in problem solving.
+Critical reflection involves a critique of the presuppositions on
+which our beliefs have been built
+
+
+Q> Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Answer>Multiple commit make easy to save our changes,without any trouble of not saving file seperatly. and also commit gives us lot of control in our code as we develope or add anogher features.
+
+Q>How can you use the commands git log and git diff to view the history of files?
+Answer>Both commands are very necessary to view hitory of the delvloment in coding  and as well as it gives us proper understating of which files are chnaged in each commit and how many lines are affected in every file.
+
+Q>How might using version control make you more confident to make changes that could break something?
+Answer> As we know it want to do revolutionize work you have to take some risk to loose and it makes us some time more defencive.Fear less work do more invetion and gives more pleasure to do work this is also same in softweare development;
+
+Q>Now that you have your workspace set up, what do you want to try using Git for?
+Answer> Ya, I am exited to create repository and want to do work on git .
+
+Q>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer> The features added in two independent branch would be combine in single branch after meging with another one.Representing the branch commit log in graphical manner it gives us the grate understanding of the flow within the project; 
+ 
+Q>What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer>Automatic merge is fast and it takes no time but some time it will create some confusion about the code, what happen whene same code written in diffrent lines. 
+             Manual merge it may time but it is quite fine because when we commit after review it grate understatding of the code.
+
