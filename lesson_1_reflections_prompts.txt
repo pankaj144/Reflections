@@ -27,4 +27,6 @@ Answer> The features added in two independent branch would be combine in single 
 Q>What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Answer>Automatic merge is fast and it takes no time but some time it will create some confusion about the code, what happen whene same code written in diffrent lines. 
              Manual merge it may time but it is quite fine because when we commit after review it grate understatding of the code.
+Q>Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+Answ>it might be the chanese made by some other in same repo it affect our working.
