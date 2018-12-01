@@ -1,0 +1,18 @@
+Q>What happens when you initialize a repository? Why do you need to do it?
+
+Ans>A .git directory has been created after git init command.Ya i need git repository to store diffrent versions of file at diffent stages. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area gives us space whwnre we keprt our changed file and gives us chang=e to revert back any chages file to wirking area.
+
+Q>How can you use the staging area to make sure you have one commit per logical change?
+
+Ans>yes staging area gives some sapce to rethink of out changes mad durig develoment and we can make good decision  to commit for one logical changes.
+
+Q>What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans> To create Baranches are very important in developoement process when ever we want to add some new feature or develope our app in diiffrent language.
+
+Q>How do the diagrams help you visualize the branch structure?
+Ans> Now we can see that if we are able to draw the dialgram then we can easly know whick commits are reachaable and it helps us to proper understatnding of git. 
+
