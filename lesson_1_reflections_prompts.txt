@@ -32,3 +32,6 @@ Answ>There be might be the chanages made by some other in same repo it affect ou
 
 Q>What is the benefit of having a copy of the last known state of the remote stored locally?
 Ans>Last copy of remote helps lot to identify what is going to wrong and whats changes going to affect our correct code.  
+
+Q>How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans>Without git it seeams harder to show some one what we changed and explain why we changed.
