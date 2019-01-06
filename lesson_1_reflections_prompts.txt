@@ -19,7 +19,7 @@ Q>How might using version control make you more confident to make changes that c
 Answer> As we know it want to do revolutionize work you have to take some risk to loose and it makes us some time more defencive.Fear less work do more invetion and gives more pleasure to do work this is also same in softweare development;
 
 Q>Now that you have your workspace set up, what do you want to try using Git for?
-Answer> Ya, I am exited to create repository and want to do work on git .
+Answer> Ya, I am exited to create repository and want to do work on git.Git provide us flxability to experiments with our code and idea.
 
 Q>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer> The features added in two independent branch would be combine in single branch after meging with another one.Representing the branch commit log in graphical manner it gives us the grate understanding of the flow within the project; 
