@@ -18,6 +18,9 @@ Answer>Both commands are very necessary to view hitory of the delvloment in codi
 Q>How might using version control make you more confident to make changes that could break something?
 Answer> As we know it want to do revolutionize work you have to take some risk to loose and it makes us some time more defencive.Fear less work do more invetion and gives more pleasure to do work this is also same in softweare development;
 
+Q>What is the purpose of the git hub.
+Ans> git hub is the repository to store code on the cloud.
+
 Q>Now that you have your workspace set up, what do you want to try using Git for?
 Answer> Ya, I am exited to create repository and want to do work on git.Git provide us flxability to experiments with our code and idea.
 
