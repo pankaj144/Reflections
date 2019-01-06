@@ -22,7 +22,7 @@ Q>What is the purpose of the git hub.
 Ans> git hub is the repository to store code on the cloud.
 
 Q>Now that you have your workspace set up, what do you want to try using Git for?
-Answer> Ya, I am exited to create repository and want to do work on git.Git provide us flxability to experiments with our code and idea.
+Answer> ues yo, I am keen to create repository and want to do work on git.Git provide us flxability to experiments with our code and idea.
 
 Q>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer> The features added in two independent branch would be combine in single branch after meging with another one.Representing the branch commit log in graphical manner it gives us the grate understanding of the flow within the project; 
